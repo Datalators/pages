@@ -8,6 +8,18 @@
 
 }
 
+@media (max-width: 768px){
+	body{
+		font-size: 16px;
+	}
+}
+	
+@media (min-width: 768px){
+	body{
+		font-size: 22px;
+	}
+}
+
 .wrapper{
 	background: url(bg-img.png) no-repeat;
 	
