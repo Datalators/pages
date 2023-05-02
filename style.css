@@ -13,10 +13,10 @@
 		font-size: 20px;
 	}
 	img {
-		transform: scale(1.2);
-		position: relative;
-		padding: 25px;
-		z-index: 0;
+		transform: scale(1.1);
+		/* position: relative; */
+		padding: 20px;
+		z-index: 1;
 	}
 }
 	
